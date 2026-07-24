@@ -7,7 +7,8 @@
       "Read(//c/Program Files/**)",
       "Read(//c/Program Files \\(x86\\)/**)",
       "Read(//c/Program Files/GitHub CLI/**)",
-      "Bash(ssh *)"
+      "Bash(ssh *)",
+      "WebFetch(domain:leetcode.cn)"
     ]
   }
 }
